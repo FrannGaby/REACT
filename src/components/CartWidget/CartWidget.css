@@ -1,0 +1,27 @@
+.CartWidget{
+ width: auto;
+ padding-right: 47px;
+ padding-top: 10px;
+ font-size: 8px;
+
+ border-radius: 8px;
+ display: flex;
+ order: 1;
+ justify-content: center;
+
+ 
+
+
+
+}
+img{
+    width: 50px;
+    height: 50px;
+}
+
+.num{
+ 
+    color: aliceblue;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
