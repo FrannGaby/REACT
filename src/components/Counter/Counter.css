@@ -1,0 +1,36 @@
+.btn {
+    background-color: rgb(12, 118, 240);
+    width: 100px;
+    height: 50px;
+    display: grid;
+    margin-left: 50%;
+    margin-top: 35px;
+    font-family: 'Comic Neue', cursive;
+    font-weight: 100;
+    color: beige;
+     font-style: center;
+}
+.Contador{
+    width: 80px;
+    height: 30px;
+    display: grid;
+    margin-left: 51%;
+    margin-top: 35px;
+    text-align: center;
+
+}
+.btn-remover{
+
+    background-color: rgb(255, 26, 9);
+    width: 100px;
+    height: 50px;
+    display: grid;
+    margin-left: 50%;
+    margin-top: 35px;
+    font-family: 'Comic Neue', cursive;
+    font-size: 14px;
+    font-weight: 100;
+    color: beige;
+     font-style: center
+
+}
