@@ -1,0 +1,13 @@
+.imagenes{
+    width: 30vh;
+    height: 40vh;
+    display:flex;
+    flex-direction: row;
+}
+.productos{
+    display: flex;
+    flex-wrap:nowrap;
+    flex-direction: row;
+   
+
+}
